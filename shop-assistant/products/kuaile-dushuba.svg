@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="296" height="296" viewBox="0 0 296 296" fill="none">
+  <rect width="296" height="296" rx="16" fill="#F3EEFF"/>
+  <rect x="48" y="54" width="150" height="188" rx="10" fill="#D8C8F5" stroke="#B59AE8" stroke-width="3"/>
+  <rect x="68" y="70" width="150" height="188" rx="10" fill="#EFE6FF" stroke="#C7B0F0" stroke-width="3"/>
+  <rect x="88" y="86" width="150" height="188" rx="10" fill="#FFFFFF" stroke="#B79BE6" stroke-width="3"/>
+  <text x="163" y="150" text-anchor="middle" font-family="PingFang SC,sans-serif" font-size="22" font-weight="600" fill="#5B3F9A">快乐读书吧</text>
+  <text x="163" y="182" text-anchor="middle" font-family="PingFang SC,sans-serif" font-size="16" fill="#7A62B3">二年级上册</text>
+  <circle cx="118" cy="220" r="10" fill="#FF8FAB"/>
+  <circle cx="148" cy="220" r="10" fill="#FFD166"/>
+  <circle cx="178" cy="220" r="10" fill="#06D6A0"/>
+  <circle cx="208" cy="220" r="10" fill="#4CC9F0"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="296" height="296" viewBox="0 0 296 296" fill="none">
+  <rect width="296" height="296" rx="16" fill="#F0F4FF"/>
+  <rect x="128" y="48" width="40" height="28" rx="8" fill="#9BB0F0"/>
+  <rect x="118" y="76" width="60" height="140" rx="18" fill="#DCE5FF" stroke="#8FA4E6" stroke-width="3"/>
+  <circle cx="148" cy="130" r="16" fill="#FFFFFF" opacity="0.8"/>
+  <text x="148" y="250" text-anchor="middle" font-family="PingFang SC,sans-serif" font-size="16" font-weight="600" fill="#4A5FA8">析科美次抛</text>
+</svg>
